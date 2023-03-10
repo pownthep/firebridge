@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'dart:async';
 
-import 'package:flutter_firebridge/flutter_firebridge.dart'
-    as flutter_firebridge;
 
 void main() {
   runApp(const MyApp());

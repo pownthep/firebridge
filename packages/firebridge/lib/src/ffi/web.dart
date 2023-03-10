@@ -1,6 +1,5 @@
 import 'package:firebridge/src/bridge_generated.dart';
 import 'package:flutter_rust_bridge/flutter_rust_bridge.dart';
-import 'package:firebridge/firebridge.dart';
 
 WasmModule createLibraryImpl() {
   // TODO add web support. See:
